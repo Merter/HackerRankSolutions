@@ -7,9 +7,9 @@ public class NewYearChaos {
   public static void main(String[] args) {
     Scanner scan = new Scanner(System.in);
     int testCount = scan.nextInt();
-    for (int t : testCount) {
+    for (int t=0; t<testCount; t++) {
       int numCount = scan.nextInt();
-      int[] nums = new int[numCount]();
+      int[] nums = new int[numCount];
       for (int i=0; i<numCount; i++) {
         nums[i] = scan.nextInt();
       }
