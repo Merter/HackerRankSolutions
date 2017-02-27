@@ -2,7 +2,7 @@
 import java.io.*;
 import java.util.*;
 
-
+// Project Euler #4
 public class LargestPalindromeProduct {
 
 	public static void main(String[] args) {
@@ -37,4 +37,3 @@ public class LargestPalindromeProduct {
 	}
 
 }
-

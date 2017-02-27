@@ -4,6 +4,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
+// Project Euler #5
 public class SmallestMultiple {
 
     private static final int MAX_SIZE = 40;
